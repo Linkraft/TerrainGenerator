@@ -1,0 +1,2 @@
+# TerrainGenerator
+Terrain generator program that utilizes [random walk](https://en.wikipedia.org/wiki/Random_walk) functionality.  The UI scales with monitor window size and features options that allow the user to customize the size, shape, frequency, density, and spacing of terrain tiles, as well as the number of tiles to generate and the speed at which the generation executes. It utilized Processing, a Java-based language.
