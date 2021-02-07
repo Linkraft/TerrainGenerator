@@ -1,4 +1,6 @@
 # TerrainGenerator
+![](https://github.com/jordansmithsgames/jordansmithsgames/blob/main/readmes/terraingenerator/terrain.gif)
+
 Terrain generator program that utilizes [random walk](https://en.wikipedia.org/wiki/Random_walk) functionality to generate terrain tiles in a highly customizable way.  The UI scales with monitor window size and features options that allow the user to customize the size, shape, frequency, density, and spacing of terrain tiles, as well as the number of tiles to generate and the speed at which the generation executes. It utilizes Processing, a Java-based language, and was created by me for my Introduction to Digital Arts and Sciences class at the University of Florida.
 
 ## Dependencies
